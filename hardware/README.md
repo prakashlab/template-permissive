@@ -13,9 +13,10 @@ file.
 
 The `design` folder should contain files in a format suitable for making changes to the design.
 If you would like to provide fabrication files in a format suitable for uploading to a digital
-fabrication machine, you can do so in the `fabrication` folder; though it is better and more
-conventional to upload them as attachments on your repository's
-[Github Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases).
+fabrication machine, you can include those files in the `fabrication` folder. However, it is better
+to upload them as attachments on your repository's
+[Github Releases](https://docs.github.com/en/repositories/releasing-projects-on-github/about-releases),
+and to assign a version number to each release.
 
 You should include documentation in this `hardware/README.md` file about how to open, modify,
 fabricate, assemble, and operate the hardware provided in this folder.
