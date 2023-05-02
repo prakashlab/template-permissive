@@ -23,6 +23,15 @@ You should modify the details of this repository by clicking the gear icon in th
 
 If/when you have a project website, you should add the website URL to the repository details.
 
+### Customizing the repository settings
+
+You should modify the settings of this repository in the *Settings* tab of the repository on Github. In particular:
+
+- If you do not yet need to have a wiki for your project, you should uncheck the "Wikis" feature.
+- If you are not yet ready to respond to and properly manage bug reports and feature requests for your project, you should uncheck the "Issues" features.
+- You should probably check the "Discussions" feature, which gives everyone a threaded forum interface to talk about your project, ask questions, talk about ideas, etc.
+- If you need to change whether your repository is visible to people outside the prakashlab Github organization, you should do so in the *Danger Zone* section at the bottom of the settings page.
+
 ### Customizing the `README.md` file
 
 The file you're reading is the repository's `README.md` file. It is shown by default whenever anyone opens the base URL for your repository (which will be of the format https://github.com/prakashlab/template-permissive).
